@@ -2,3 +2,4 @@
 pre-commit
 sphinx
 sphinx_rtd_theme
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
